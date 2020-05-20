@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: d7a413f17fb71884fbf75e7449eb44f5
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: E Protein.002
+    100002: E Protein.003
+    100004: E Protein.004
+    100006: E Protein.005
+    100008: E Protein.006
+    100010: E Protein.007
+    100012: E Protein.008
+    100014: E Protein.009
+    100016: E Protein.010
+    100018: E Protein.011
+    100020: E Protein.012
+    100022: E Protein.013
+    100024: E Protein.014
+    100026: E Protein.015
+    100028: E Protein.016
+    100030: E Protein.017
+    100032: E Protein.018
+    100034: E Protein.019
+    100036: E Protein.020
+    100038: E Protein.021
+    100040: E Protein.022
+    100042: E Protein.023
+    100044: E Protein.024
+    100046: E Protein.025
+    100048: E Protein.026
+    100050: E Protein.027
+    100052: E Protein.028
+    100054: E Protein.029
+    100056: E Protein.030
+    100058: E Protein.031
+    100060: E Protein.032
+    100062: E Protein.033
+    100064: E Protein.034
+    100066: E Protein.035
+    100068: E Protein.036
+    100070: E Protein.037
+    100072: E Protein.038
+    100074: Envelope-low
+    100076: hemagglutinin-esterase dimer.001
+    100078: hemagglutinin-esterase dimer.003
+    100080: hemagglutinin-esterase dimer.004
+    100082: hemagglutinin-esterase dimer.005
+    100084: hemagglutinin-esterase dimer.006
+    100086: hemagglutinin-esterase dimer.007
+    100088: hemagglutinin-esterase dimer.008
+    100090: hemagglutinin-esterase dimer.009
+    100092: hemagglutinin-esterase dimer.010
+    100094: hemagglutinin-esterase dimer.011
+    100096: hemagglutinin-esterase dimer.012
+    100098: hemagglutinin-esterase dimer.013
+    100100: hemagglutinin-esterase dimer.014
+    100102: hemagglutinin-esterase dimer.015
+    100104: hemagglutinin-esterase dimer.016
+    100106: hemagglutinin-esterase dimer.018
+    100108: hemagglutinin-esterase dimer.019
+    100110: hemagglutinin-esterase dimer.020
+    100112: hemagglutinin-esterase dimer.021
+    100114: hemagglutinin-esterase dimer.022
+    100116: hemagglutinin-esterase dimer.023
+    100118: hemagglutinin-esterase dimer.024
+    100120: hemagglutinin-esterase dimer.025
+    100122: hemagglutinin-esterase dimer.026
+    100124: hemagglutinin-esterase dimer.027
+    100126: hemagglutinin-esterase dimer.028
+    100128: hemagglutinin-esterase dimer.029
+    100130: hemagglutinin-esterase dimer.030
+    100132: hemagglutinin-esterase dimer.031
+    100134: hemagglutinin-esterase dimer.032
+    100136: hemagglutinin-esterase dimer.033
+    100138: hemagglutinin-esterase dimer.034
+    100140: hemagglutinin-esterase dimer.035
+    100142: hemagglutinin-esterase dimer.036
+    100144: hemagglutinin-esterase dimer.037
+    100146: hemagglutinin-esterase dimer.039
+    100148: hemagglutinin-esterase dimer.041
+    100150: hemagglutinin-esterase dimer.042
+    100152: hemagglutinin-esterase dimer.043
+    100154: hemagglutinin-esterase dimer.045
+    100156: hemagglutinin-esterase dimer.047
+    100158: hemagglutinin-esterase dimer.048
+    100160: hemagglutinin-esterase dimer.052
+    100162: hemagglutinin-esterase dimer.053
+    100164: hemagglutinin-esterase dimer.069
+    100166: hemagglutinin-esterase dimer.070
+    100168: hemagglutinin-esterase dimer.077
+    100170: hemagglutinin-esterase dimer.079
+    100172: hemagglutinin-esterase dimer.081
+    100174: M Protein.001
+    100176: M Protein.002
+    100178: M Protein.003
+    100180: M Protein.004
+    100182: M Protein.005
+    100184: M Protein.006
+    100186: M Protein.007
+    100188: M Protein.008
+    100190: M Protein.009
+    100192: M Protein.010
+    100194: M Protein.011
+    100196: M Protein.012
+    100198: M Protein.013
+    100200: M Protein.014
+    100202: RNA
+    100204: //RootNode
+    100206: Spike Glycoprotein (S).002
+    100208: Spike Glycoprotein (S).003
+    100210: Spike Glycoprotein (S).004
+    100212: Spike Glycoprotein (S).005
+    100214: Spike Glycoprotein (S).006
+    100216: Spike Glycoprotein (S).007
+    100218: Spike Glycoprotein (S).008
+    100220: Spike Glycoprotein (S).009
+    100222: Spike Glycoprotein (S).010
+    100224: Spike Glycoprotein (S).011
+    100226: Spike Glycoprotein (S).012
+    100228: Spike Glycoprotein (S).013
+    100230: Spike Glycoprotein (S).014
+    100232: Spike Glycoprotein (S).015
+    100234: Spike Glycoprotein (S).016
+    100236: Spike Glycoprotein (S).017
+    100238: Spike Glycoprotein (S).018
+    100240: Spike Glycoprotein (S).019
+    100242: Spike Glycoprotein (S).020
+    100244: Spike Glycoprotein (S).021
+    400000: E Protein.002
+    400002: E Protein.003
+    400004: E Protein.004
+    400006: E Protein.005
+    400008: E Protein.006
+    400010: E Protein.007
+    400012: E Protein.008
+    400014: E Protein.009
+    400016: E Protein.010
+    400018: E Protein.011
+    400020: E Protein.012
+    400022: E Protein.013
+    400024: E Protein.014
+    400026: E Protein.015
+    400028: E Protein.016
+    400030: E Protein.017
+    400032: E Protein.018
+    400034: E Protein.019
+    400036: E Protein.020
+    400038: E Protein.021
+    400040: E Protein.022
+    400042: E Protein.023
+    400044: E Protein.024
+    400046: E Protein.025
+    400048: E Protein.026
+    400050: E Protein.027
+    400052: E Protein.028
+    400054: E Protein.029
+    400056: E Protein.030
+    400058: E Protein.031
+    400060: E Protein.032
+    400062: E Protein.033
+    400064: E Protein.034
+    400066: E Protein.035
+    400068: E Protein.036
+    400070: E Protein.037
+    400072: E Protein.038
+    400074: Envelope-low
+    400076: hemagglutinin-esterase dimer.001
+    400078: hemagglutinin-esterase dimer.003
+    400080: hemagglutinin-esterase dimer.004
+    400082: hemagglutinin-esterase dimer.005
+    400084: hemagglutinin-esterase dimer.006
+    400086: hemagglutinin-esterase dimer.007
+    400088: hemagglutinin-esterase dimer.008
+    400090: hemagglutinin-esterase dimer.009
+    400092: hemagglutinin-esterase dimer.010
+    400094: hemagglutinin-esterase dimer.011
+    400096: hemagglutinin-esterase dimer.012
+    400098: hemagglutinin-esterase dimer.013
+    400100: hemagglutinin-esterase dimer.014
+    400102: hemagglutinin-esterase dimer.015
+    400104: hemagglutinin-esterase dimer.016
+    400106: hemagglutinin-esterase dimer.018
+    400108: hemagglutinin-esterase dimer.019
+    400110: hemagglutinin-esterase dimer.020
+    400112: hemagglutinin-esterase dimer.021
+    400114: hemagglutinin-esterase dimer.022
+    400116: hemagglutinin-esterase dimer.023
+    400118: hemagglutinin-esterase dimer.024
+    400120: hemagglutinin-esterase dimer.025
+    400122: hemagglutinin-esterase dimer.026
+    400124: hemagglutinin-esterase dimer.027
+    400126: hemagglutinin-esterase dimer.028
+    400128: hemagglutinin-esterase dimer.029
+    400130: hemagglutinin-esterase dimer.030
+    400132: hemagglutinin-esterase dimer.031
+    400134: hemagglutinin-esterase dimer.032
+    400136: hemagglutinin-esterase dimer.033
+    400138: hemagglutinin-esterase dimer.034
+    400140: hemagglutinin-esterase dimer.035
+    400142: hemagglutinin-esterase dimer.036
+    400144: hemagglutinin-esterase dimer.037
+    400146: hemagglutinin-esterase dimer.039
+    400148: hemagglutinin-esterase dimer.041
+    400150: hemagglutinin-esterase dimer.042
+    400152: hemagglutinin-esterase dimer.043
+    400154: hemagglutinin-esterase dimer.045
+    400156: hemagglutinin-esterase dimer.047
+    400158: hemagglutinin-esterase dimer.048
+    400160: hemagglutinin-esterase dimer.052
+    400162: hemagglutinin-esterase dimer.053
+    400164: hemagglutinin-esterase dimer.069
+    400166: hemagglutinin-esterase dimer.070
+    400168: hemagglutinin-esterase dimer.077
+    400170: hemagglutinin-esterase dimer.079
+    400172: hemagglutinin-esterase dimer.081
+    400174: M Protein.001
+    400176: M Protein.002
+    400178: M Protein.003
+    400180: M Protein.004
+    400182: M Protein.005
+    400184: M Protein.006
+    400186: M Protein.007
+    400188: M Protein.008
+    400190: M Protein.009
+    400192: M Protein.010
+    400194: M Protein.011
+    400196: M Protein.012
+    400198: M Protein.013
+    400200: M Protein.014
+    400202: RNA
+    400204: //RootNode
+    400206: Spike Glycoprotein (S).002
+    400208: Spike Glycoprotein (S).003
+    400210: Spike Glycoprotein (S).004
+    400212: Spike Glycoprotein (S).005
+    400214: Spike Glycoprotein (S).006
+    400216: Spike Glycoprotein (S).007
+    400218: Spike Glycoprotein (S).008
+    400220: Spike Glycoprotein (S).009
+    400222: Spike Glycoprotein (S).010
+    400224: Spike Glycoprotein (S).011
+    400226: Spike Glycoprotein (S).012
+    400228: Spike Glycoprotein (S).013
+    400230: Spike Glycoprotein (S).014
+    400232: Spike Glycoprotein (S).015
+    400234: Spike Glycoprotein (S).016
+    400236: Spike Glycoprotein (S).017
+    400238: Spike Glycoprotein (S).018
+    400240: Spike Glycoprotein (S).019
+    400242: Spike Glycoprotein (S).020
+    400244: Spike Glycoprotein (S).021
+    2100000: SARS-CoV-2
+    2300000: E Protein.002
+    2300002: E Protein.003
+    2300004: E Protein.004
+    2300006: E Protein.005
+    2300008: E Protein.006
+    2300010: E Protein.007
+    2300012: E Protein.008
+    2300014: E Protein.009
+    2300016: E Protein.010
+    2300018: E Protein.011
+    2300020: E Protein.012
+    2300022: E Protein.013
+    2300024: E Protein.014
+    2300026: E Protein.015
+    2300028: E Protein.016
+    2300030: E Protein.017
+    2300032: E Protein.018
+    2300034: E Protein.019
+    2300036: E Protein.020
+    2300038: E Protein.021
+    2300040: E Protein.022
+    2300042: E Protein.023
+    2300044: E Protein.024
+    2300046: E Protein.025
+    2300048: E Protein.026
+    2300050: E Protein.027
+    2300052: E Protein.028
+    2300054: E Protein.029
+    2300056: E Protein.030
+    2300058: E Protein.031
+    2300060: E Protein.032
+    2300062: E Protein.033
+    2300064: E Protein.034
+    2300066: E Protein.035
+    2300068: E Protein.036
+    2300070: E Protein.037
+    2300072: E Protein.038
+    2300074: Envelope-low
+    2300076: hemagglutinin-esterase dimer.001
+    2300078: hemagglutinin-esterase dimer.003
+    2300080: hemagglutinin-esterase dimer.004
+    2300082: hemagglutinin-esterase dimer.005
+    2300084: hemagglutinin-esterase dimer.006
+    2300086: hemagglutinin-esterase dimer.007
+    2300088: hemagglutinin-esterase dimer.008
+    2300090: hemagglutinin-esterase dimer.009
+    2300092: hemagglutinin-esterase dimer.010
+    2300094: hemagglutinin-esterase dimer.011
+    2300096: hemagglutinin-esterase dimer.012
+    2300098: hemagglutinin-esterase dimer.013
+    2300100: hemagglutinin-esterase dimer.014
+    2300102: hemagglutinin-esterase dimer.015
+    2300104: hemagglutinin-esterase dimer.016
+    2300106: hemagglutinin-esterase dimer.018
+    2300108: hemagglutinin-esterase dimer.019
+    2300110: hemagglutinin-esterase dimer.020
+    2300112: hemagglutinin-esterase dimer.021
+    2300114: hemagglutinin-esterase dimer.022
+    2300116: hemagglutinin-esterase dimer.023
+    2300118: hemagglutinin-esterase dimer.024
+    2300120: hemagglutinin-esterase dimer.025
+    2300122: hemagglutinin-esterase dimer.026
+    2300124: hemagglutinin-esterase dimer.027
+    2300126: hemagglutinin-esterase dimer.028
+    2300128: hemagglutinin-esterase dimer.029
+    2300130: hemagglutinin-esterase dimer.030
+    2300132: hemagglutinin-esterase dimer.031
+    2300134: hemagglutinin-esterase dimer.032
+    2300136: hemagglutinin-esterase dimer.033
+    2300138: hemagglutinin-esterase dimer.034
+    2300140: hemagglutinin-esterase dimer.035
+    2300142: hemagglutinin-esterase dimer.036
+    2300144: hemagglutinin-esterase dimer.037
+    2300146: hemagglutinin-esterase dimer.039
+    2300148: hemagglutinin-esterase dimer.041
+    2300150: hemagglutinin-esterase dimer.042
+    2300152: hemagglutinin-esterase dimer.043
+    2300154: hemagglutinin-esterase dimer.045
+    2300156: hemagglutinin-esterase dimer.047
+    2300158: hemagglutinin-esterase dimer.048
+    2300160: hemagglutinin-esterase dimer.052
+    2300162: hemagglutinin-esterase dimer.053
+    2300164: hemagglutinin-esterase dimer.069
+    2300166: hemagglutinin-esterase dimer.070
+    2300168: hemagglutinin-esterase dimer.077
+    2300170: hemagglutinin-esterase dimer.079
+    2300172: hemagglutinin-esterase dimer.081
+    2300174: M Protein.001
+    2300176: M Protein.002
+    2300178: M Protein.003
+    2300180: M Protein.004
+    2300182: M Protein.005
+    2300184: M Protein.006
+    2300186: M Protein.007
+    2300188: M Protein.008
+    2300190: M Protein.009
+    2300192: M Protein.010
+    2300194: M Protein.011
+    2300196: M Protein.012
+    2300198: M Protein.013
+    2300200: M Protein.014
+    2300202: RNA
+    2300204: Spike Glycoprotein (S).002
+    2300206: Spike Glycoprotein (S).003
+    2300208: Spike Glycoprotein (S).004
+    2300210: Spike Glycoprotein (S).005
+    2300212: Spike Glycoprotein (S).006
+    2300214: Spike Glycoprotein (S).007
+    2300216: Spike Glycoprotein (S).008
+    2300218: Spike Glycoprotein (S).009
+    2300220: Spike Glycoprotein (S).010
+    2300222: Spike Glycoprotein (S).011
+    2300224: Spike Glycoprotein (S).012
+    2300226: Spike Glycoprotein (S).013
+    2300228: Spike Glycoprotein (S).014
+    2300230: Spike Glycoprotein (S).015
+    2300232: Spike Glycoprotein (S).016
+    2300234: Spike Glycoprotein (S).017
+    2300236: Spike Glycoprotein (S).018
+    2300238: Spike Glycoprotein (S).019
+    2300240: Spike Glycoprotein (S).020
+    2300242: Spike Glycoprotein (S).021
+    3300000: E Protein.002
+    3300002: E Protein.003
+    3300004: E Protein.004
+    3300006: E Protein.005
+    3300008: E Protein.006
+    3300010: E Protein.007
+    3300012: E Protein.008
+    3300014: E Protein.009
+    3300016: E Protein.010
+    3300018: E Protein.011
+    3300020: E Protein.012
+    3300022: E Protein.013
+    3300024: E Protein.014
+    3300026: E Protein.015
+    3300028: E Protein.016
+    3300030: E Protein.017
+    3300032: E Protein.018
+    3300034: E Protein.019
+    3300036: E Protein.020
+    3300038: E Protein.021
+    3300040: E Protein.022
+    3300042: E Protein.023
+    3300044: E Protein.024
+    3300046: E Protein.025
+    3300048: E Protein.026
+    3300050: E Protein.027
+    3300052: E Protein.028
+    3300054: E Protein.029
+    3300056: E Protein.030
+    3300058: E Protein.031
+    3300060: E Protein.032
+    3300062: E Protein.033
+    3300064: E Protein.034
+    3300066: E Protein.035
+    3300068: E Protein.036
+    3300070: E Protein.037
+    3300072: E Protein.038
+    3300074: Envelope-low
+    3300076: hemagglutinin-esterase dimer.001
+    3300078: hemagglutinin-esterase dimer.003
+    3300080: hemagglutinin-esterase dimer.004
+    3300082: hemagglutinin-esterase dimer.005
+    3300084: hemagglutinin-esterase dimer.006
+    3300086: hemagglutinin-esterase dimer.007
+    3300088: hemagglutinin-esterase dimer.008
+    3300090: hemagglutinin-esterase dimer.009
+    3300092: hemagglutinin-esterase dimer.010
+    3300094: hemagglutinin-esterase dimer.011
+    3300096: hemagglutinin-esterase dimer.012
+    3300098: hemagglutinin-esterase dimer.013
+    3300100: hemagglutinin-esterase dimer.014
+    3300102: hemagglutinin-esterase dimer.015
+    3300104: hemagglutinin-esterase dimer.016
+    3300106: hemagglutinin-esterase dimer.018
+    3300108: hemagglutinin-esterase dimer.019
+    3300110: hemagglutinin-esterase dimer.020
+    3300112: hemagglutinin-esterase dimer.021
+    3300114: hemagglutinin-esterase dimer.022
+    3300116: hemagglutinin-esterase dimer.023
+    3300118: hemagglutinin-esterase dimer.024
+    3300120: hemagglutinin-esterase dimer.025
+    3300122: hemagglutinin-esterase dimer.026
+    3300124: hemagglutinin-esterase dimer.027
+    3300126: hemagglutinin-esterase dimer.028
+    3300128: hemagglutinin-esterase dimer.029
+    3300130: hemagglutinin-esterase dimer.030
+    3300132: hemagglutinin-esterase dimer.031
+    3300134: hemagglutinin-esterase dimer.032
+    3300136: hemagglutinin-esterase dimer.033
+    3300138: hemagglutinin-esterase dimer.034
+    3300140: hemagglutinin-esterase dimer.035
+    3300142: hemagglutinin-esterase dimer.036
+    3300144: hemagglutinin-esterase dimer.037
+    3300146: hemagglutinin-esterase dimer.039
+    3300148: hemagglutinin-esterase dimer.041
+    3300150: hemagglutinin-esterase dimer.042
+    3300152: hemagglutinin-esterase dimer.043
+    3300154: hemagglutinin-esterase dimer.045
+    3300156: hemagglutinin-esterase dimer.047
+    3300158: hemagglutinin-esterase dimer.048
+    3300160: hemagglutinin-esterase dimer.052
+    3300162: hemagglutinin-esterase dimer.053
+    3300164: hemagglutinin-esterase dimer.069
+    3300166: hemagglutinin-esterase dimer.070
+    3300168: hemagglutinin-esterase dimer.077
+    3300170: hemagglutinin-esterase dimer.079
+    3300172: hemagglutinin-esterase dimer.081
+    3300174: M Protein.001
+    3300176: M Protein.002
+    3300178: M Protein.003
+    3300180: M Protein.004
+    3300182: M Protein.005
+    3300184: M Protein.006
+    3300186: M Protein.007
+    3300188: M Protein.008
+    3300190: M Protein.009
+    3300192: M Protein.010
+    3300194: M Protein.011
+    3300196: M Protein.012
+    3300198: M Protein.013
+    3300200: M Protein.014
+    3300202: RNA
+    3300204: Spike Glycoprotein (S).002
+    3300206: Spike Glycoprotein (S).003
+    3300208: Spike Glycoprotein (S).004
+    3300210: Spike Glycoprotein (S).005
+    3300212: Spike Glycoprotein (S).006
+    3300214: Spike Glycoprotein (S).007
+    3300216: Spike Glycoprotein (S).008
+    3300218: Spike Glycoprotein (S).009
+    3300220: Spike Glycoprotein (S).010
+    3300222: Spike Glycoprotein (S).011
+    3300224: Spike Glycoprotein (S).012
+    3300226: Spike Glycoprotein (S).013
+    3300228: Spike Glycoprotein (S).014
+    3300230: Spike Glycoprotein (S).015
+    3300232: Spike Glycoprotein (S).016
+    3300234: Spike Glycoprotein (S).017
+    3300236: Spike Glycoprotein (S).018
+    3300238: Spike Glycoprotein (S).019
+    3300240: Spike Glycoprotein (S).020
+    3300242: Spike Glycoprotein (S).021
+    4300000: E Protein.002
+    4300002: hemagglutinin-esterase dimer.001
+    4300004: M Protein.001
+    4300006: Spike Glycoprotein (S).002
+    4300008: Envelope-low
+    4300010: RNA
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
